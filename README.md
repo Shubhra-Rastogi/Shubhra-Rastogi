@@ -7,6 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+
 I'm currently working at Boehinger Ingelheim as a Senior Scientist in the Innovation & Data Science group.
 
 - 👀 I’m interested in Data Science
