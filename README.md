@@ -12,7 +12,8 @@ I'm currently working at Boehinger Ingelheim as a Senior Scientist in the Innova
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning AI/ML modeling, data visualization via Python, Tableau, R, MySQL
 - 💞️ I’m looking to collaborate on on all topics related to Data Science, Machine Learning and Artificial Intellegence
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhrarastogi/)
+- 🔗 Let's Connect: https://www.linkedin.com/in/shubhrarastogi/
+- 📧 How to reach me: shubhra.rastogi.27@gmail.com
 
 
 
