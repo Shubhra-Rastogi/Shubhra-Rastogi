@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjA2cWc0d3A3OG44bXJyZ3Boc3JqMnJtaWUyZjRmdnI2NG4zcWoyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HV0tHmPREaD0sIixmg/giphy.gif" width="300"/>
+  <img src="https://th.bing.com/th/id/OIP.NZyvBGh_dDbIrkbmAlnEhgHaGL?w=224&h=187&c=7&r=0&o=5&dpr=1.1&pid=1.7.svg" width="300"/>
 </div>
 
 <h1 align="center">
@@ -10,13 +10,12 @@
 ### 🌟 About Me :
 I'm currently working at Boehinger Ingelheim as a Senior Scientist in the Innovation & Data Science group.
 
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning AI/ML modeling, data visualization via Python, Tableau, R, MySQL
-- 💞️ I’m looking to collaborate on on all topics related to Data Science, Machine Learning and Artificial Intellegence
+- 👀 I’m interested in applying Data Science principles to the life sciences industry. 
+- 🌱 I’m currently learning AI/ML modeling for predictive analysis and data visualization techniques via Python, Tableau, R, MySQL
 - 🔗 Let's Connect: https://www.linkedin.com/in/shubhrarastogi/
 - 📧 How to reach me: shubhra.rastogi.27@gmail.com
 
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://th.bing.com/th/id/R.10327dc6812b05b66a2b6b44c55a097c?rik=nKIXnE7Aetd6Uw&pid=ImgRaw&r=0.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
